@@ -8,11 +8,21 @@
 
 ## Contents
 
+### Linear Data Structure
+
 - [ ] Array
-- [ ] Linked List
+- [ ] Singly Linked List
+- [ ] Doubly Linked List
 - [ ] Stack
 - [ ] Queue
+- [ ] Deque
+
+### Non-Linear Data Structure
+
 - [ ] Tree
 - [ ] Heap
 - [ ] Graph
+
+### Hash
+
 - [ ] Hash Table
