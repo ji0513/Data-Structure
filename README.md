@@ -1,7 +1,7 @@
 # Data Structure
 
 ## Language
-- C++
+- C
 
 ## Study Period
 - 2026
