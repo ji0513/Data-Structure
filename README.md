@@ -10,10 +10,9 @@
 
 ### Linear Data Structure
 
-- [ ] Array
+- [ ] Stack
 - [ ] Singly Linked List
 - [ ] Doubly Linked List
-- [ ] Stack
 - [ ] Queue
 - [ ] Deque
 
