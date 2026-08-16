@@ -10,7 +10,7 @@
 
 ### Linear Data Structure
 
-- [ ] Stack
+- [x] [Stack](./Stack)
 - [ ] Queue
 - [ ] Doubly Linked List
 - [ ] Singly Linked List
