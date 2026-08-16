@@ -11,9 +11,9 @@
 ### Linear Data Structure
 
 - [ ] Stack
-- [ ] Singly Linked List
-- [ ] Doubly Linked List
 - [ ] Queue
+- [ ] Doubly Linked List
+- [ ] Singly Linked List
 - [ ] Deque
 
 ### Non-Linear Data Structure
